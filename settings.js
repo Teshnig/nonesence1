@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'nonesence done by gee!', 
+    success: 'done by teshnig!', 
 }
 
 let file = require.resolve(__filename)
